@@ -12,4 +12,4 @@ Run `npm start` for a dev server. Navigate to [http://localhost:3000](http://loc
 
 ## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started), To learn React, check out the [React documentation](https://reactjs.org/).
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started), To learn React, check out the [React documentation](https://reactjs.org/)..
